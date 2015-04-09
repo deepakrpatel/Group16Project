@@ -23,66 +23,7 @@
 <body>
     <form id="form1" runat="server">
 
- <div id="topbanner">
-
-            <br />
-            <asp:Label ID="Label15" runat="server" Text="MIS333k "></asp:Label>
-            <br />
-            <br />
-            <asp:Image ID="img1" runat="server" ImageUrl="~/pic.jpg" />
-            <br />
-            <br />
-            <br />
-        <br />
-       
-  </div>     
-
-        <div id="stuff">
-
-        <div id="sidebar">
-
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                
-            </asp:ContentPlaceHolder>       
-           
-        </div>
-
-
-        <div id="content">
-                      
-          <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
-                
-          </asp:ContentPlaceHolder>
-
-        </div>
-
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-
-        </div>
-
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-
-  <div id="bottombanner">
-       
-           <br />
-           <br />
-           <br />
-           <br />
-                      MIS 333K<br />
-           <br />
-       
-  </div>
-
-    </form>
+ 
    
 </body>
 </html>
